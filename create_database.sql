@@ -1,4 +1,4 @@
-# Create SonarQube database and user.
+﻿# Create SonarQube database and user.
 # 
 # Command: mysql -u root -p < create_database.sql
 #

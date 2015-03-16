@@ -1,4 +1,4 @@
-from dockerfile/java
+﻿from dockerfile/java
 maintainer jmfiz, jmfiz@paradigmatecnologico.com
 
 RUN echo "deb http://downloads.sourceforge.net/project/sonar-pkg/deb binary/" >> /etc/apt/sources.list

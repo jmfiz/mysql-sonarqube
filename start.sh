@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 directory="/var/lib/mysql"
 service mysql start
